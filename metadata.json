@@ -1,0 +1,5 @@
+{
+  "name": "ProPlayer Card Forge",
+  "description": "A high-performance sports card generator. Upload Excel data and assets to batch-generate FIFA-style player cards using HTML5 Canvas and GenAI for scouting reports.",
+  "requestFramePermissions": []
+}
